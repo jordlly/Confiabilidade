@@ -1,5 +1,10 @@
-# Desenvolvimento: Jordlly Silva                                             
-# Criado em: 04/03/2022   Modificado em: 14/03/2022                          
+##############################################################################
+# CONFIA.py                                                                  #
+# Exemplo introdutório de análise de confiabilidade estrutural.              #
+#                                                                            #
+# Desenvolvimento: Jordlly Silva                                             #
+# Criado em: 04/03/2022   Modificado em: 14/03/2022                          #
+##############################################################################                        
 
 import numpy as np               # Módulo Numpy
 import matplotlib.pyplot as plt  # Função Pyplot
